@@ -37,7 +37,7 @@ export default function Page() {
 
 
 
-<section id="thankyou" className="bg-section"><div className="overlay"></div><div className="content thankyou-inner"><div className="arabic reveal">جزاكم الله خيرًا</div><h2 className="reveal">Thank You</h2><p className="reveal">May Allah bless you for your prayers, love, and presence.</p><div className="gold-divider reveal"></div><a className="map-btn reveal" href="tel:+919460567892">Call 94605 67892</a></div></section>
+<section id="thankyou" className="bg-section"><div className="overlay"></div><div className="content thankyou-inner"><div className="arabic reveal">جزاكم الله خيرًا</div><h2 className="reveal">Thank You</h2><p className="reveal">May Allah bless you for your prayers, love, and presence.</p><div className="gold-divider reveal"></div></div></section>
 
 
 
